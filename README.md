@@ -1,2 +1,2 @@
-# SongOfMe
+# Song Of Me
 《我 我 我 ，我之歌》游戏企划与进度管理
